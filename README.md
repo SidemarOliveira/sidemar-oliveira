@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-Eu sou Sidemar Oliveira, sou um Programador FullStack, atualmente estou criando projetos com HTML, CSS, JavaScript iniciando aprendizado com Node.js e React.
+Eu sou Sidemar Silva, sou um Programador FullStack, atualmente estou criando projetos com HTML, CSS, JavaScript iniciando aprendizado com Node.js e React.
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
