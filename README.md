@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
  
 Eu sou Sidemar Silva, sou um Programador FullStack, atualmente estou criando projetos com HTML, CSS, JavaScript iniciando aprendizado com Node.js e React.
 <br>
